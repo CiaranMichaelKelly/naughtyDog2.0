@@ -1,0 +1,59 @@
+body {
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+  }
+
+  header {
+      background-color: white;
+  }
+
+  nav {
+      height: 60px;
+      width: 1000px;
+      margin: 0 auto 20px;
+  }
+
+  div {
+      width: 1000;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  #leftmenu {
+      float: left;
+      width: 30%;
+      margin-bottom: 20px;
+  }
+
+  h4 {
+      text-align: center;
+  }
+
+  .searchbox {
+      padding: 5px;
+      margin: 10px 10px;
+      width: 200px;
+  }
+
+  #main {
+      float: right;
+      width: 70%;
+      margin-bottom: 20px;
+  }
+
+  h1 {
+      font-size: 40px;
+      color: darkslategray;
+  }
+
+  h3 {
+      text-align: left;
+  }
+
+  footer {
+      clear: both;
+      width: 100%;
+  }
