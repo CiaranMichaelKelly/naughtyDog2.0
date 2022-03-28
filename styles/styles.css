@@ -1,18 +1,22 @@
 body {
     margin-top: 0px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     margin-left: auto;
     margin-right: auto;
     background-color: lightgray;
   }
 
+  #mainheader {
+    background-color: rgb(38, 56, 58);
+  }   
+
   header {
-      background-color: white;
+      background-color:lightgray;
   }
 
   nav {
       height: 60px;
-      width: 1000px;
+      width: 1000px;      
       margin: 0 auto 20px;
   }
 
@@ -26,6 +30,7 @@ body {
       float: left;
       width: 30%;
       margin-bottom: 20px;
+      background-color: lightgray;
   }
 
   h4 {
@@ -46,7 +51,7 @@ body {
 
   h1 {
       font-size: 40px;
-      color: darkslategray;
+      color: rgb(38, 56, 58);
   }
 
   h3 {
