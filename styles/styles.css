@@ -16,7 +16,7 @@ body {
 
   nav {
       height: 60px;
-      width: 1000px;      
+      width: 1500px;      
       margin: 0 auto 20px;
   }
 
@@ -47,7 +47,7 @@ body {
   
   #main {
       float: right;
-      width: 70%;
+      width: 85%;
       margin-bottom: 20px;
   }
 
